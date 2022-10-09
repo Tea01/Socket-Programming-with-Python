@@ -1,2 +1,2 @@
 # Socket Programming
- A socket program
+In this program we can have multiple clients connected and communicating within a server.
